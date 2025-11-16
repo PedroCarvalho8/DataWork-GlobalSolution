@@ -1,0 +1,14 @@
+# Pasta de Assets
+
+Esta pasta deve conter os ícones e splash screen do aplicativo.
+
+Para gerar os assets, você pode:
+1. Usar o gerador do Expo: https://docs.expo.dev/develop/user-interface/splash-screen-and-app-icon/
+2. Criar manualmente os arquivos:
+   - icon.png (1024x1024)
+   - splash.png (1242x2436)
+   - adaptive-icon.png (1024x1024)
+   - favicon.png (48x48)
+
+Ou usar assets temporários enquanto desenvolve.
+
